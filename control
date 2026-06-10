@@ -1,0 +1,9 @@
+Package: com.liquidlock.ios15
+Name: LiquidLock
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Liquid Glass Lock Screen Clock
+Maintainer: artem177gif
+Author: artem177gif
+Section: Tweaks
+Depends: mobilesubstrate
